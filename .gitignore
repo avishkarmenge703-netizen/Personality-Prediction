@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Dataset (optional – remove if you want to upload the dataset)
+*.csv
+
+# Model files (optional – remove if you want to upload the .pkl files)
+*.pkl
